@@ -51,7 +51,7 @@
 		<java-uuid.version>3.2.0</java-uuid.version>
 		<logback.version>1.2.3</logback.version>
 		<slf4j.version>1.7.29</slf4j.version>
-		<mysql-connector.version>8.0.18</mysql-connector.version>
+		<mysql-connector.version>8.0.28</mysql-connector.version>
 		<common-dbcp2.version>2.7.0</common-dbcp2.version>
 
 		<!-- javax mail version -->
